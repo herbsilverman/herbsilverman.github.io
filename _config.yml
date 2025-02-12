@@ -1,0 +1,13 @@
+title: My Website
+description: A simple website hosted on GitHub Pages
+author: Your Name
+baseurl: "" # Leave empty unless your site is in a subfolder
+url: "https://yourusername.github.io" # Change to your GitHub Pages URL
+
+theme: minima # Use a built-in Jekyll theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+permalink: pretty
