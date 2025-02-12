@@ -4,7 +4,7 @@ author: Your Name
 baseurl: "" # Leave empty unless your site is in a subfolder
 url: "https://yourusername.github.io" # Change to your GitHub Pages URL
 
-theme: minima # Use a built-in Jekyll theme
+theme: html5up-future-imperfect # Use a built-in Jekyll theme
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
