@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: page
 title: Home
+permalink: /
 ---
 
 Welcome to my personal blog — a space for reflections on optimism,
