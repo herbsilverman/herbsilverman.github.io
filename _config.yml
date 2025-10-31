@@ -4,12 +4,14 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-minima:
-  navigation:
-    - { title: "Home", url: "/" }
-    - { title: "Blog", url: "/blog" }
-    - { title: "About", url: "/about/" }
-    - { title: "Contact", url: "/contact/" }
+
+# Controls the header menu (order matters)
+header_pages:
+  - index.md
+  - blog.md
+  - about.md
+  - contact.md
+
   social_links:
     - { platform: github,  user_url: "https://github.com/herbsilverman" }
     - { platform: linkedin, user_url: "https://linkedin.com/in/herbsilverman" }
