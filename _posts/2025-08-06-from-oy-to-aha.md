@@ -1,6 +1,6 @@
 ---
 title: "From Oy! To Aha! Finding Fulfillment In Sketchy Communication"
-date: 2025-08-06
+date: 2025-11-03
 categories: [Learning, Thinking]
 tags: [communication, growth, reflection]
 image: /assets/img/bt2mFYW.png
@@ -26,28 +26,26 @@ Instead of getting glum or irritated, I bottle up that energy and use it the nex
 As always, in any situation, trying your hardest—even for a lifetime—is deeply fulfilling when you finally succeed. And when that clarity finally arrives—*Aha!*—it feels like magic.
 
 *How might you turn today’s misunderstandings into tomorrow’s breakthroughs?*
-- - -
 
+<hr style="margin:2em 0;">
 <img src="/assets/img/my-blog-herb-silverman.png" alt="Herb Silverman" style="max-width:25%; height:auto; display:inline-block;"><br>
 **Author – Herb Silverman**  
 Herb brings optimism to action by uncovering how small ideas, shared stories, and simple connections can ignite big change. With curiosity and heart, he explores what it means to grow, to give back, and to build something that matters together. [Who is Herb? Learn more.](/about-herb)
 
----
-
+<hr style="margin:2em 0;">
 <p style="text-align:center;">
 🔗 More ideas:
 <a href="/categories/learning">Learning</a> 🔗
 </p>
 
+<hr style="margin:2em 0;">
 <p style="text-align: center;">
 <a href="/what-my-terrier-taught-me-about-strong-relationships">Prev Post</a> |  
 </p>
 
-<p style="text-align: center;">⬅️ <a href="/blog">Back to Blog</a></p>
+<p style="text-align: right;">⬅️ <a href="/blog">Back to Blog</a></p>
 
-
----
-
+<hr style="margin:2em 0;">
 **Let Us Keep The Conversation Going**<br>
 Ideas are better when shared. Follow along, and you will be the first to catch my latest notes. 📨
 [Sign up with this quick Google Form](https://forms.gle/Y3WYgzHUeDoqLLsg8) — it only takes a moment.
