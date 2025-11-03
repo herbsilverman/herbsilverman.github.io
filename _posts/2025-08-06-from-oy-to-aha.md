@@ -10,7 +10,6 @@ description: "Discover how communication missteps can lead to clarity, growth, a
 <small>
 <p><i>By <a href="mailto:silvermanh@gmail.com">Herb Silverman</a> | Categories: <a href="/categories/learning">Learning</a><br>
 <span class="reading-time">Reading time: ~1 minute</span></i></p>
-</small>
 
 ![From Oy! To Aha! Finding Fulfillment In Sketchy Communication](https://imgur.com/bt2mFYW.png)
 
