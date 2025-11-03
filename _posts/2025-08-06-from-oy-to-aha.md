@@ -29,11 +29,9 @@ As always, in any situation, trying your hardest—even for a lifetime—is deep
 *How might you turn today’s misunderstandings into tomorrow’s breakthroughs?*
 - - -
 
-<img src="https://imgur.com/senuyih.png" alt="Herb Silverman" style="max-width:25%; height:auto; display:inline-block;"> </br>
+<img src="https://imgur.com/senuyih.png" alt="Herb Silverman" style="max-width:25%; height:auto; display:inline-block;">
 **Author – Herb Silverman**  
 Herb brings optimism to action by uncovering how small ideas, shared stories, and simple connections can ignite big change. With curiosity and heart, he explores what it means to grow, to give back, and to build something that matters together. [Who is Herb? Learn more.](/about-herb)
-
----
 
 <p style="text-align:center;">
 🔗 More ideas:
