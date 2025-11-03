@@ -1,7 +1,7 @@
 ---
 title: "From Oy! To Aha! Finding Fulfillment In Sketchy Communication"
 date: 2025-08-06
-categories: [Learning, Thinking]
+categories: [Learning]
 tags: [communication, growth, reflection]
 image: /assets/img/bt2mFYW.png
 description: "Discover how communication missteps can lead to clarity, growth, and fulfilling 'Aha!' moments."
