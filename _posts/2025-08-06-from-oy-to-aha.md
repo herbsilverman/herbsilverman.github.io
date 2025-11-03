@@ -1,6 +1,6 @@
 ---
 title: "From Oy! To Aha! Finding Fulfillment In Sketchy Communication"
-date: 2025-11-03
+date: 2025-08-06
 categories: [Learning, Thinking]
 tags: [communication, growth, reflection]
 image: /assets/img/bt2mFYW.png
