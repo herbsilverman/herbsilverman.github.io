@@ -11,7 +11,7 @@ description: "Discover how communication missteps can lead to clarity, growth, a
 <p><i>By <a href="mailto:silvermanh@gmail.com">Herb Silverman</a> | Categories: <a href="/categories/learning">Learning</a><br>
 <span class="reading-time">Reading time: ~1 minute</span></i></p>
 
-![From Oy! To Aha! Finding Fulfillment In Sketchy Communication](https://imgur.com/bt2mFYW.png)
+![From Oy! To Aha! Finding Fulfillment In Sketchy Communication](/assets/img/bt2mFYW.png)
 
 True confession: I make, well, about [1,000,001 mistakes](https://herbsilverman.wordpress.com/2017/07/24/how-integrity-initiates-with-1000001-mistakes/) every single day — whether in communication, pronunciation, or just plain vagueness.
 
@@ -28,9 +28,10 @@ As always, in any situation, trying your hardest—even for a lifetime—is deep
 *How might you turn today’s misunderstandings into tomorrow’s breakthroughs?*
 - - -
 
-<img src="https://imgur.com/senuyih.png" alt="Herb Silverman" style="max-width:25%; height:auto; display:inline-block;">
-**Author – Herb Silverman**  
+![Herb Silverman](/assets/img/senuyih.png)
 Herb brings optimism to action by uncovering how small ideas, shared stories, and simple connections can ignite big change. With curiosity and heart, he explores what it means to grow, to give back, and to build something that matters together. [Who is Herb? Learn more.](/about-herb)
+
+---
 
 <p style="text-align:center;">
 🔗 More ideas:
@@ -48,4 +49,4 @@ Herb brings optimism to action by uncovering how small ideas, shared stories, an
 
 **Let Us Keep The Conversation Going**<br>
 Ideas are better when shared. Follow along, and you will be the first to catch my latest notes. 📨
-[Sign up with this quick Google Form](tab:https://forms.gle/Y3WYgzHUeDoqLLsg8) — it only takes a moment.
+[Sign up with this quick Google Form](https://forms.gle/Y3WYgzHUeDoqLLsg8) — it only takes a moment.
