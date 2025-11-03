@@ -3,12 +3,12 @@ title: "From Oy! To Aha! Finding Fulfillment In Sketchy Communication"
 date: 2025-08-06
 categories: [Learning]
 tags: [communication, growth, reflection]
-image: /assets/img/bt2mFYW.png
+image: /assets/img/from-oy-to-aha.png
 description: "Discover how communication missteps can lead to clarity, growth, and fulfilling 'Aha!' moments."
-# Optional personal fields—theme won’t show these but you can keep them for reference
-summary_70: Finding clarity and fulfillment through communication challenges.
-meta_155: Discover how communication missteps can lead to clarity, growth, and those fulfilling “Aha!” moments. Every effort toward better expression brings insight.
-excerpt_48: Through humor and honesty, miscommunication can spark clarity and growth—each “Oy!” becomes an “Aha!”.
+# Optional personal fields — theme won't display these but useful for tracking
+summary_70: "Finding clarity and fulfillment through communication challenges."
+meta_155: "Discover how communication missteps can lead to clarity, growth, and those fulfilling 'Aha!' moments. Every effort toward better expression brings insight."
+excerpt_48: "Through humor and honesty, miscommunication can spark clarity and growth—each 'Oy!' becomes an 'Aha!'."
 ---
 
 <small>
