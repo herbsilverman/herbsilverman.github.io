@@ -11,7 +11,7 @@ description: "Discover how communication missteps can lead to clarity, growth, a
 <p><i>By <a href="mailto:silvermanh@gmail.com">Herb Silverman</a> | Categories: <a href="/categories/learning">Learning</a><br>
 <span class="reading-time">Reading time: ~1 minute</span></i></p>
 
-![From Oy! To Aha! Finding Fulfillment In Sketchy Communication](/assets/img/bt2mFYW.png)
+![From Oy! To Aha! Finding Fulfillment In Sketchy Communication](/assets/img/from-oy-to-aha.png)
 
 True confession: I make, well, about [1,000,001 mistakes](https://herbsilverman.wordpress.com/2017/07/24/how-integrity-initiates-with-1000001-mistakes/) every single day — whether in communication, pronunciation, or just plain vagueness.
 
