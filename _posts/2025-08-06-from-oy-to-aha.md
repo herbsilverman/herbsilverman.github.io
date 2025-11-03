@@ -38,7 +38,6 @@ Herb brings optimism to action by uncovering how small ideas, shared stories, an
 <a href="/categories/learning">Learning</a> 🔗
 </p>
 
-<hr style="margin:2em 0;">
 <p style="text-align: center;">
 <a href="/what-my-terrier-taught-me-about-strong-relationships">Prev Post</a> |  
 </p>
