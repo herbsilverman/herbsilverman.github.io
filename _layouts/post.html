@@ -9,21 +9,9 @@ layout: default
     {%- if page.description -%}
       <p class="post-description">{{ page.description }}</p>
     {%- endif -%}
-
-    {%- if page.summary_70 -%}
-      <p class="post-summary" style="font-size:0.95em; color:#555;">
-        {{ page.summary_70 }}
-      </p>
-    {%- elsif page.excerpt_48 -%}
-      <p class="post-summary" style="font-size:0.95em; color:#555;">
-        {{ page.excerpt_48 }}
-      </p>
-    {%- endif -%}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
-
 </article>
-
