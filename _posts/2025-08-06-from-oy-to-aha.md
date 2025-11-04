@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "From Oy! To Aha! Finding Fulfillment In Sketchy Communication"
 date: 2025-08-06
 categories: [Learning]
