@@ -2,10 +2,6 @@ title: "Blog by Herb Silverman"
 description: "Notes on optimism, leadership, communication, and service."
 
 theme: minima
-minima:
-  skin: classic
-  custom_css:
-    - /assets/css/custom.css
 
 plugins:
   - jekyll-feed
