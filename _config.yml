@@ -1,6 +1,7 @@
 title: "Blog by Herb Silverman"
 description: "Notes on optimism, leadership, communication, and service."
 
+theme: minima
 minima:
   custom_css:
     - /assets/css/custom.css
