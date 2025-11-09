@@ -20,7 +20,7 @@ excerpt_48: "Through humor and honesty, miscommunication can spark clarity and g
 
 True confession: I make, well, about [1,000,001 mistakes](https://herbsilverman.wordpress.com/2017/07/24/how-integrity-initiates-with-1000001-mistakes/) every single day — whether in communication, pronunciation, or just plain vagueness.
 
-### **Broadcast My Stories**
+### Broadcast My Stories
 
 Even more frustrating is my inability to broadcast my stories at crucial times—it drives me insane.
 
