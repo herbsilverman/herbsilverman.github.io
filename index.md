@@ -4,8 +4,6 @@ title: Home
 permalink: /
 ---
 
-<link rel="stylesheet" href="/assets/css/custom.css">
-
 <style>
   .post-title { display: none; }
 </style>
