@@ -66,7 +66,7 @@ footer {
 
 header {
   padding-bottom: var(--spacing);
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 main {
