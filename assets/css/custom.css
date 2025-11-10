@@ -38,3 +38,26 @@ img {
   opacity: 0.8;
 }
 
+/* ===========================
+   Navigation Spacing
+   =========================== */
+.site-nav {
+  text-align: center;
+  margin: 1rem 0 2rem 0; /* Top, Right, Bottom, Left */
+}
+
+.site-nav a {
+  font-family: var(--font-heading);
+  font-size: var(--size-step-0);
+  font-weight: 500;
+  color: var(--color-dark);
+  text-decoration: none;
+  margin: 0 1rem;          /* Horizontal space between links */
+  padding: 0.5rem 0;       /* Vertical breathing room */
+  transition: color 0.2s ease;
+}
+
+.site-nav a:hover {
+  color: var(--color-primary);
+  text-decoration: underline;
+}
