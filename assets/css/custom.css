@@ -192,9 +192,9 @@ footer {
   letter-spacing: -0.02em;
   color: var(--color-dark);
   text-decoration: none;
-  text-align: left;
+  text-align: center;
   display: block;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.75rem; /* was 0.25rem */
 }
 
 /* Hover effect for title */
@@ -221,21 +221,20 @@ footer {
 }
 
 /* Hover state for nav links */
-.site-nav a:hover {
-  color: var(--color-primary);
-  text-decoration: underline;
-  text-underline-offset: 0.2em;
+.site-nav {
+  text-align: center;
+  margin-top: 0.25rem;            /* add this */
+  margin-bottom: calc(var(--spacing) * 1.5);
 }
 
-/* Optional divider line under nav */
-.site-nav::after {
-  content: "";
-  display: block;
-  width: 60%;
-  max-width: var(--max-width);
-  height: 1px;
-  background-color: #e5e5e5;
-  margin: 1rem auto 2rem auto;
+.site-nav a {
+  font-family: var(--font-heading);
+  font-size: var(--size-step-0);
+  font-weight: 500;
+  color: var(--color-dark);
+  text-decoration: none;
+  margin: 0 1rem;                 /* was 0.75rem – more space between links */
+  transition: color 0.2s ease;
 }
 
 /* Remove Minima's default top border above the title/navigation */
