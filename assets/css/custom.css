@@ -61,3 +61,24 @@ img {
   color: var(--color-primary);
   text-decoration: underline;
 }
+
+/* ===========================
+   Post List Cleanup
+   =========================== */
+.post-list {
+  list-style: none;          /* Removes bullet points */
+  padding: 0;                /* Removes default left indent */
+  margin: 0;
+}
+
+.post-list li {
+  margin-bottom: 2rem;       /* Space between posts */
+  border-bottom: 1px solid #e5e5e5; /* Optional divider line */
+  padding-bottom: 1rem;
+}
+
+/* Optional: subtle hover effect for post links */
+.post-link:hover {
+  color: var(--color-primary);
+  text-decoration: underline;
+}
