@@ -2,7 +2,7 @@
    Herb Silverman – Custom Styling for GitHub Pages (Minima)
    ---------------------------------------------------------
    Fonts: Poppins (headings) + System (body)
-   Colors, spacing, and text scaling included.
+   Adds centered, readable layout and Bear-style spacing
    ========================================================= */
 
 /* Import Poppins for headings */
@@ -26,6 +26,8 @@
 
   --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --font-heading: 'Poppins', sans-serif;
+
+  --max-width: 720px; /* Comfortable reading width */
 }
 
 /* Dark mode colors */
@@ -47,28 +49,38 @@
 body {
   background: var(--color-light);
   color: var(--color-dark);
-  padding: var(--spacing)
-    clamp(calc(var(--spacing) / 2), 5vw, calc(var(--spacing) * 3));
   font-family: var(--font-body);
   font-size: var(--size-step-0);
   line-height: 1.6;
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  align-items: center;
   margin: 0;
+  padding: 2rem 1rem;
+  min-height: 100vh;
 }
 
-header,
+/* Center all main content blocks */
 main,
+header,
 footer {
   width: 100%;
+  max-width: var(--max-width);
 }
 
+/* ===========================
+   Header
+   =========================== */
 header {
   padding-bottom: var(--spacing);
   text-transform: none;
+  text-align: center;
+  letter-spacing: 0.05em;
 }
 
+/* ===========================
+   Main content
+   =========================== */
 main {
   flex: 1;
   padding-bottom: calc(var(--spacing) * 2);
@@ -88,8 +100,6 @@ a {
 a:hover {
   color: var(--color-primary);
   text-decoration: underline;
-  text-underline-offset: 0.25ex;
-  text-decoration-thickness: 0.15ex;
 }
 
 /* ===========================
@@ -99,8 +109,8 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
-  background-color: var(--color-primary);
   border-radius: 4px;
+  margin: var(--spacing) auto;
 }
 
 /* ===========================
@@ -118,27 +128,21 @@ h5 {
   color: var(--color-dark);
   margin-top: var(--spacing);
   margin-bottom: 0.5rem;
+  text-align: left;
 }
 
-h1 {
-  font-size: var(--size-step-4);
-  line-height: 1;
-}
+h1 { font-size: var(--size-step-4); line-height: 1; }
+h2 { font-size: var(--size-step-3); }
+h3 { font-size: var(--size-step-2); }
+h4 { font-size: var(--size-step-1); }
+h5 { font-size: var(--size-step-0); }
 
-h2 {
-  font-size: var(--size-step-3);
-}
-
-h3 {
-  font-size: var(--size-step-2);
-}
-
-h4 {
-  font-size: var(--size-step-1);
-}
-
-h5 {
-  font-size: var(--size-step-0);
+/* ===========================
+   Paragraphs
+   =========================== */
+p {
+  margin-bottom: var(--spacing);
+  text-align: left;
 }
 
 /* ===========================
@@ -146,31 +150,26 @@ h5 {
    =========================== */
 ul,
 ol {
-  -webkit-padding-start: var(--spacing);
   padding-inline-start: var(--spacing);
 }
 
 li {
-  --flow-space: var(--spacing);
-  margin-block-start: var(--flow-space, var(--spacing));
+  margin-block-start: 0.5rem;
 }
 
 /* ===========================
    Blockquotes
    =========================== */
 blockquote {
-  -webkit-padding-start: var(--spacing);
-  padding-inline-start: var(--spacing);
-  -webkit-border-start: 0.3em solid;
-  border-inline-start: 0.3em solid;
-  border-width: 1px;
+  border-left: 4px solid var(--color-primary);
+  margin: var(--spacing) 0;
+  padding-left: var(--spacing);
   font-style: italic;
-  font-size: var(--size-step-0);
   opacity: 0.9;
 }
 
 /* ===========================
-   Footer (optional)
+   Footer
    =========================== */
 footer {
   border-top: 1px solid #e5e5e5;
@@ -178,4 +177,6 @@ footer {
   font-size: 0.9em;
   text-align: center;
   opacity: 0.8;
+  max-width: var(--max-width);
 }
+
