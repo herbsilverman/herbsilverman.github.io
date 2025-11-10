@@ -1,1 +1,13 @@
+/* Keep all main content (pages + posts) the same width and centered */
+.wrapper {
+  max-width: 720px;   /* You can change this to 680, 800, etc. */
+  padding: 0 1rem;    /* Side padding so text doesn’t touch edges */
+  margin: 0 auto;     /* Center the content */
+}
+
+/* Make sure images shrink on small screens */
+img {
+  max-width: 100%;
+  height: auto;
+}
 
