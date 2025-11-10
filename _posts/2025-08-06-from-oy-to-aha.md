@@ -12,6 +12,7 @@ meta_155: "Discover how communication missteps can lead to clarity, growth, and 
 excerpt_48: "Through humor and honesty, miscommunication can spark clarity and growth—each 'Oy!' becomes an 'Aha!'."
 ---
 
+# **From Oy! To Aha! Finding Fulfillment In Sketchy Communication**
 <small>
 <p><i>By <a href="mailto:silvermanh@gmail.com">Herb Silverman</a> | Categories: <a href="/categories/learning">Learning</a><br>
 <span class="reading-time">Reading time: ~1 minute</span></i></p>
