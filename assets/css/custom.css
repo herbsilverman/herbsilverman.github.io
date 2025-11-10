@@ -237,3 +237,10 @@ footer {
   background-color: #e5e5e5;
   margin: 1rem auto 2rem auto;
 }
+
+/* Remove Minima's default top border above the title/navigation */
+.site-header {
+  border-top: none !important;
+  border-bottom: none !important;
+}
+
