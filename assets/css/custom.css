@@ -39,11 +39,34 @@ img {
 }
 
 /* ===========================
-   Navigation Spacing
+   Header Layout — Title + Nav on One Line
    =========================== */
+.site-header {
+  display: flex;
+  justify-content: space-between; /* Title on left, nav on right */
+  align-items: center;
+  flex-wrap: wrap; /* Wraps on small screens */
+  padding: 1rem 0;
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 2rem;
+}
+
+/* Title */
+.site-title {
+  font-family: var(--font-heading);
+  font-size: var(--size-step-1);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--color-dark);
+  text-decoration: none;
+  margin: 0;
+}
+
+/* Navigation */
 .site-nav {
-  text-align: center;
-  margin: 1rem 0 2rem 0; /* Top, Right, Bottom, Left */
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem; /* space between links */
 }
 
 .site-nav a {
@@ -52,8 +75,6 @@ img {
   font-weight: 500;
   color: var(--color-dark);
   text-decoration: none;
-  margin: 0 1rem;          /* Horizontal space between links */
-  padding: 0.5rem 0;       /* Vertical breathing room */
   transition: color 0.2s ease;
 }
 
@@ -62,23 +83,38 @@ img {
   text-decoration: underline;
 }
 
+/* Center-align on small screens */
+@media (max-width: 640px) {
+  .site-header {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .site-nav {
+    justify-content: center;
+    margin-top: 0.75rem;
+  }
+}
+
 /* ===========================
-   Post List Cleanup
+   Post List Cleanup (No Bullets, No Indent)
    =========================== */
 .post-list {
-  list-style: none;          /* Removes bullet points */
-  padding: 0;                /* Removes default left indent */
+  list-style-type: none !important; /* Absolutely no bullet symbols */
   margin: 0;
+  padding: 0;
 }
 
 .post-list li {
-  margin-bottom: 2rem;       /* Space between posts */
-  border-bottom: 1px solid #e5e5e5; /* Optional divider line */
-  padding-bottom: 1rem;
+  margin: 1.5rem 0;  /* Vertical spacing between posts */
+  padding: 0;
 }
 
-/* Optional: subtle hover effect for post links */
-.post-link:hover {
-  color: var(--color-primary);
-  text-decoration: underline;
+.post-list h2 {
+  margin-bottom: 0.25rem;
+}
+
+.post-list .post-excerpt {
+  margin-top: 0.25rem;
+  margin-bottom: 0;
 }
